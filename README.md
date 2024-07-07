@@ -95,7 +95,7 @@ src="https://img.shields.io/twitter/follow/Jaymin_001?logo=twitter&style=for-the
 
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/8e3bbfaa2aedf288c3fddd98de1b7e515733a0a2/assets/github-snake.svg" alt="snake"/>
 </p>
 
 
