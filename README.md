@@ -16,9 +16,7 @@ I am familiar with HTML, CSS, JavaScript, VanillaJS, ReactJS, Nodejs, Expressjs,
 <a href="https://www.github.com/jayminDarji2003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jayminDarji2003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br>
-<a href="https://www.twitter.com/Jaymin_001_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Jaymin_001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 
 
