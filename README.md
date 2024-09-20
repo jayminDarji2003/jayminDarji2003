@@ -10,7 +10,7 @@ I am familiar with HTML, CSS, JavaScript, VanillaJS, ReactJS, Nodejs, Expressjs,
 
 * 🌍  I'm based in Gandhinagar, Gujarat
 * 🖥️  See my portfolio at [MyPortfolio](https://jaymindarji.netlify.app/)
-* ✉️  You can contact me at [jay001darji@gmail.com](mailto:jay001darji@gmail.com)
+* ✉️  You can contact me at [jaymindarji2911@gmail.com](mailto:jay001darji@gmail.com)
 * ⚡  I love to collaborate with people! 💜
 
 <a href="https://www.github.com/jayminDarji2003" target="_blank" rel="noreferrer"><img
@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/jayminDarji2003?logo=github&style=f
 
 
 
-## Skills => Languages and Tools 
+## Skills : Languages and Tools 
 <div>
 
 ## Languages
